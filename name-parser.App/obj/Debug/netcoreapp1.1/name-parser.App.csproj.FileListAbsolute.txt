@@ -1,0 +1,8 @@
+/Users/Basic/Workspace/csharp/name-parser/name-parser.App/bin/Debug/netcoreapp1.1/name-parser.App.deps.json
+/Users/Basic/Workspace/csharp/name-parser/name-parser.App/bin/Debug/netcoreapp1.1/name-parser.App.runtimeconfig.json
+/Users/Basic/Workspace/csharp/name-parser/name-parser.App/bin/Debug/netcoreapp1.1/name-parser.App.runtimeconfig.dev.json
+/Users/Basic/Workspace/csharp/name-parser/name-parser.App/bin/Debug/netcoreapp1.1/name-parser.App.dll
+/Users/Basic/Workspace/csharp/name-parser/name-parser.App/bin/Debug/netcoreapp1.1/name-parser.App.pdb
+/Users/Basic/Workspace/csharp/name-parser/name-parser.App/obj/Debug/netcoreapp1.1/name-parser.App.AssemblyInfo.cs
+/Users/Basic/Workspace/csharp/name-parser/name-parser.App/obj/Debug/netcoreapp1.1/name-parser.App.dll
+/Users/Basic/Workspace/csharp/name-parser/name-parser.App/obj/Debug/netcoreapp1.1/name-parser.App.pdb

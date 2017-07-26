@@ -1,0 +1,13 @@
+/Users/Basic/Workspace/csharp/name-parser/name-parser.tests/bin/Debug/netcoreapp1.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/Basic/Workspace/csharp/name-parser/name-parser.tests/bin/Debug/netcoreapp1.1/xunit.runner.utility.netstandard15.dll
+/Users/Basic/Workspace/csharp/name-parser/name-parser.tests/bin/Debug/netcoreapp1.1/xunit.runner.reporters.netstandard15.dll
+/Users/Basic/Workspace/csharp/name-parser/name-parser.tests/bin/Debug/netcoreapp1.1/name-parser.tests.deps.json
+/Users/Basic/Workspace/csharp/name-parser/name-parser.tests/bin/Debug/netcoreapp1.1/name-parser.tests.runtimeconfig.json
+/Users/Basic/Workspace/csharp/name-parser/name-parser.tests/bin/Debug/netcoreapp1.1/name-parser.tests.runtimeconfig.dev.json
+/Users/Basic/Workspace/csharp/name-parser/name-parser.tests/bin/Debug/netcoreapp1.1/name-parser.tests.dll
+/Users/Basic/Workspace/csharp/name-parser/name-parser.tests/bin/Debug/netcoreapp1.1/name-parser.tests.pdb
+/Users/Basic/Workspace/csharp/name-parser/name-parser.tests/bin/Debug/netcoreapp1.1/name-parser.App.dll
+/Users/Basic/Workspace/csharp/name-parser/name-parser.tests/bin/Debug/netcoreapp1.1/name-parser.App.pdb
+/Users/Basic/Workspace/csharp/name-parser/name-parser.tests/obj/Debug/netcoreapp1.1/name-parser.tests.AssemblyInfo.cs
+/Users/Basic/Workspace/csharp/name-parser/name-parser.tests/obj/Debug/netcoreapp1.1/name-parser.tests.dll
+/Users/Basic/Workspace/csharp/name-parser/name-parser.tests/obj/Debug/netcoreapp1.1/name-parser.tests.pdb
